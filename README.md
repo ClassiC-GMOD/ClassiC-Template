@@ -1,2 +1,1 @@
-# ClassiC.Core, helper classes for GMod addon developement.
-
+# ClassiC.Core
