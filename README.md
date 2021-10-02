@@ -1,2 +1,2 @@
-# Core
-.NET Module written in C#
+# ClassiC.Core, helper classes for GMod addon developement.
+
